@@ -1,0 +1,44 @@
+<menu>
+    <option>
+        <name>Nueva pestaña</name>
+        <shortCut>Ctrl+T</shortCut>
+    </option>
+    <option>
+        <name>Nueva ventana</name>
+        <shortCut>Ctrl+N</shortCut>
+    </option>
+    <menu>
+        <name>Historial</name>
+        <option>
+            <name>Historial</name>
+            <shortCut>Ctrl+H</shortCut>
+        </option>
+    </menu>
+    <option>
+        <name>Descargas</name>
+        <shortCut>Ctrl+J</shortCut>
+    </option>
+    <menu>
+        <name>Favoritos</name>
+        <option>
+            <name>Agregar esta pestaña a favoritos...</name>
+            <shortCut>Ctrl+D</shortCut>
+        </option>
+        <option>
+            <name>Agregar a favoritos todas las pestañas...</name>
+            <shortCut>Ctrl+Shift+D</shortCut>
+        </option>
+    </menu>
+    <option>
+        <name>Configuración</name>
+    </option>
+    <menu>
+        <name>Ayuda</name>
+        <option>
+            <name>Acerca de Google Chrome</name>
+        </option>
+    </menu>
+    <option>
+        <name>Salir</name>
+    </option>
+</menu>

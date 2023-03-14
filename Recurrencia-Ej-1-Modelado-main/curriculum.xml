@@ -1,11 +1,11 @@
 <curriculum_vitae>
-    <personal_information>
+    <personalInformation>
         <name>Michelle Torres Quiroz</name>
-        <birth_date>1978</birth_date>
+        <birthDate>1978</birthDate>
         <address>Av. Siempreviva No. 17 Col. Anzures, Mëxico D.F.</address>
         <phone>55-34-45-95</phone>
         <email>curriculum@gmail.com</email>
-    </personal_information>
+    </personalInformation>
 
     <profile>
         Tengo un cáracter de mujer emprendedora, porque en los negocios o actividades laborales, suelo ser muy
@@ -13,42 +13,42 @@
         todo motivadora, etc.
     </profile>
 
-    <academic_studies>
+    <academicStudies>
         <institution>Universidad Autónoma de México.</institution>
         <title>Licenciatura en Ciencias de la Comunicación</title>
-        <start-date>2001</start-date>
-        <finish-date>2005</finish-date>
-    </academic_studies>
-    <academic_studies>
+        <startDate>2001</startDate>
+        <finishDate>2005</finishDate>
+    </academicStudies>
+    <academicStudies>
         <institution>Universidad Autónoma de México</institution>
         <title>Licenciatura en Derecho</title>
-        <start_date>1996</start_date>
-        <finish_date>2000</finish_date>
-    </academic_studies>
+        <startDate>1996</startDate>
+        <finishDate>2000</finishDate>
+    </academicStudies>
 
-    <job_experiences>
+    <jobExperiences>
         <job>Asesor Jurídico</job>
         <company>Revista México</company>
-        <start_date>2000</start_date>
+        <startDate>2000</startDate>
         <finish_date>2011</finish_date>
-    </job_experiences>
-    <job_experiences>
+    </jobExperiences>
+    <jobExperiences>
         <job>Creadora publicitaria y editora</job>
         <company>Revista y periodico</company>
         <start_date>2000</start_date>
         <finish_date>2011</finish_date>
-    </job_experiences>
-    <job_experiences>
+    </jobExperiences>
+    <jobExperiences>
         <job>Escrítora</job>
         <start_date>2008</start_date>
         <finish_date>2011</finish_date>
-    </job_experiences>
-    <job_experiences>
+    </jobExperiences>
+    <jobExperiences>
         <job>Redactora de Artículos</job>
         <company>Website</company>
         <start_date>2005</start_date>
         <finish_date>2011</finish_date>
-    </job_experiences>
+    </jobExperiences>
 
     <knowledges>Administradora y contable</knowledges>
     <knowledges>Windows office 2007</knowledges>
