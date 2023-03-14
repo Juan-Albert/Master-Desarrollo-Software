@@ -2,11 +2,9 @@
     <personal_information>
         <name>Michelle Torres Quiroz</name>
         <birth_date>1978</birth_date>
-        <contact_information>
-            <address>Av. Siempreviva No. 17 Col. Anzures, Mëxico D.F.</address>
-            <phone>55-34-45-95</phone>
-            <email>curriculum@gmail.com</email>
-        </contact_information>
+        <address>Av. Siempreviva No. 17 Col. Anzures, Mëxico D.F.</address>
+        <phone>55-34-45-95</phone>
+        <email>curriculum@gmail.com</email>
     </personal_information>
 
     <profile>
@@ -26,7 +24,6 @@
         <title>Licenciatura en Derecho</title>
         <start_date>1996</start_date>
         <finish_date>2000</finish_date>
-        <descripcion>Breve descripción de tus logros académicos</descripcion>
     </academic_studies>
 
     <job_experiences>
