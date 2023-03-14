@@ -1,0 +1,73 @@
+<schedule>
+    <day nombre="lunes">
+        <activities>
+            <activityName>Post Grado Musical Adultos Malia</activityName>
+            <startTime>17:30</startTime>
+            <duration>00:30</duration>
+        </activities>
+        <activities>
+            <activityName>Interpretación Nacho</activityName>
+            <startTime>17:30</startTime>
+            <duration>01:00</duration>
+        </activities>
+    </day>
+    <day nombre="martes">
+        <activities>
+            <activityName>Canto Grados y particular Marina</activityName>
+            <startTime>17:30</startTime>
+            <duration>03:30</duration>
+        </activities>
+        <activities>
+            <activityName>Canto Niñas Yanet</activityName>
+            <startTime>18:00</startTime>
+            <duration>01:00</duration>
+        </activities>
+    </day>
+    <day nombre="miércoles">
+        <activities>
+            <activityName>Post Grado Musical Adultos Malia</activityName>
+            <startTime>17:30</startTime>
+            <duration>00:30</duration>
+        </activities>
+        <activities>
+            <activityName>Jóvenes 13-17 Malia</activityName>
+            <startTime>18:00</startTime>
+            <duration>00:30</duration>
+        </activities>
+    </day>
+    <day nombre="jueves">
+        <activities>
+            <activityName>Claqué Cecilia</activityName>
+            <startTime>17:30</startTime>
+            <duration>00:30</duration>
+        </activities>
+        <activities>
+            <activityName>Post Grado Musical Adultos Malia</activityName>
+            <startTime>18:00</startTime>
+            <duration>00:30</duration>
+        </activities>
+        <activities>
+            <activityName>Jóvenes 13-17 Malia</activityName>
+            <startTime>18:30</startTime>
+            <duration>00:30</duration>
+        </activities>
+    </day>
+    <day nombre="viernes">
+        <activities>
+            <activityName>Post Grado Musical Adultos Malia</activityName>
+            <startTime>17:30</startTime>
+            <duration>00:30</duration>
+        </activities>
+        <activities>
+            <activityName>Jóvenes 13-17 Malia</activityName>
+            <startTime>18:00</startTime>
+            <duration>00:30</duration>
+        </activities>
+    </day>
+    <day nombre="domingo">
+        <activities>
+            <activityName>Gestión Emocional Adolescentes Domingo</activityName>
+            <startTime>13:00</startTime>
+        </activities>
+    </day>
+</schedule>
