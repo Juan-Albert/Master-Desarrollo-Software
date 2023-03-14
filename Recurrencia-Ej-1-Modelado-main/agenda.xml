@@ -1,1 +1,34 @@
-<agenda>
+<contactBook>
+    <contacts>
+        <ID>0</ID>
+        <name>María Pérez</name>
+        <telefono>695895614</telefono>
+        <correo>mariaperez@email.com</correo>
+        <backupContactIds>2</backupContactIds>
+        <backupContactIds>3</backupContactIds>
+    </contacts>
+    <contacts>
+        <ID>1</ID>
+        <name>Carlos Gómez</name>
+        <telefono>698562145</telefono>
+        <correo>carlosgomez@email.com</correo>
+        <backupContactIds>2</backupContactIds>
+    </contacts>
+    <contacts>
+        <ID>2</ID>
+        <name>Sofía Rodríguez</name>
+        <telefono>698754632</telefono>
+        <correo>sofiarodriguez@email.com</correo>
+        <backupContactIds>0</backupContactIds>
+        <backupContactIds>1</backupContactIds>
+        <backupContactIds>3</backupContactIds>
+    </contacts>
+    <contacts>
+        <ID>3</ID>
+        <name>Juan García</name>
+        <telefono>693625874</telefono>
+        <correo>juangarcia@email.com</correo>
+        <backupContactIds>0</backupContactIds>
+        <backupContactIds>2</backupContactIds>
+    </contacts>
+</contactBook>
