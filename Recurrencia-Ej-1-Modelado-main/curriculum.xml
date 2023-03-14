@@ -1,0 +1,60 @@
+<curriculum_vitae>
+    <personal_information>
+        <name>Michelle Torres Quiroz</name>
+        <birth_date>1978</birth_date>
+        <contact_information>
+            <address>Av. Siempreviva No. 17 Col. Anzures, Mëxico D.F.</address>
+            <phone>55-34-45-95</phone>
+            <email>curriculum@gmail.com</email>
+        </contact_information>
+    </personal_information>
+
+    <profile>
+        Tengo un cáracter de mujer emprendedora, porque en los negocios o actividades laborales, suelo ser muy
+        dinámica, responsable, puntual, puedo llevar la responsabilidad de un equipo de personas, visionaria y sobre
+        todo motivadora, etc.
+    </profile>
+
+    <academic_studies>
+        <institution>Universidad Autónoma de México.</institution>
+        <title>Licenciatura en Ciencias de la Comunicación</title>
+        <start-date>2001</start-date>
+        <finish-date>2005</finish-date>
+    </academic_studies>
+    <academic_studies>
+        <institution>Universidad Autónoma de México</institution>
+        <title>Licenciatura en Derecho</title>
+        <start_date>1996</start_date>
+        <finish_date>2000</finish_date>
+        <descripcion>Breve descripción de tus logros académicos</descripcion>
+    </academic_studies>
+
+    <job_experiences>
+        <job>Asesor Jurídico</job>
+        <company>Revista México</company>
+        <start_date>2000</start_date>
+        <finish_date>2011</finish_date>
+    </job_experiences>
+    <job_experiences>
+        <job>Creadora publicitaria y editora</job>
+        <company>Revista y periodico</company>
+        <start_date>2000</start_date>
+        <finish_date>2011</finish_date>
+    </job_experiences>
+    <job_experiences>
+        <job>Escrítora</job>
+        <start_date>2008</start_date>
+        <finish_date>2011</finish_date>
+    </job_experiences>
+    <job_experiences>
+        <job>Redactora de Artículos</job>
+        <company>Website</company>
+        <start_date>2005</start_date>
+        <finish_date>2011</finish_date>
+    </job_experiences>
+
+    <knowledges>Administradora y contable</knowledges>
+    <knowledges>Windows office 2007</knowledges>
+    <knowledges>Equipo de computo</knowledges>
+    <knowledges>Ingles</knowledges>
+</curriculum_vitae>
